@@ -41,7 +41,7 @@ Over the past **5 months**, I independently developed a **full-stack eCommerce a
 ## 📲 Try the App
 
 **[Download APK + Demo Videos](https://drive.google.com/drive/folders/1wtkQaChv0T4cYiZ6zLhN32uoPum07iG6?usp=sharing)**  
-**[Try Online](https://appetize.io/app/b_btcptu5ycn57jgvto7jbc2cjqi)**  
+**[Try Online](https://appetize.io/app/b_mow6zvvatwzsdpzag6c4a4nfha)**  
 
 ## 📌 Notes
 
