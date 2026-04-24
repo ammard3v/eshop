@@ -35,15 +35,16 @@ Over the past **5 months**, I independently developed a **full-stack eCommerce a
 ##  #Key Features
 
 - Firebase Cloud Messaging (FCM) for real-time push notifications  
-- Order status updates (e.g., delivered alerts)  
-
+- Order status updates (e.g., delivered alerts)
+- Internet Status Detection
+- Advanced Auth Implementatiion
 
 ## 📲 Try the App
 ## TEST CREDEDNTIALS: email:test@test.com, pass: 12345 or use google auth
 * better download apk to run
 
 **[Download APK + Demo Videos](https://drive.google.com/drive/folders/1Ga5aja41Z7-Yl0LAQ4wMq2984NNXP726)**  
-**[Try Online](https://appetize.io/app/b_mow6zvvatwzsdpzag6c4a4nfha)**  
+**[Try Online](https://appetize.io/app/b_32aripjn3ccjn4igsm5zutaqea)**  
 
 ## 📌 Notes
 
